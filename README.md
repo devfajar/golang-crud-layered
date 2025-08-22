@@ -55,9 +55,13 @@ cp .env.example .env
 ```
 # Then edit .env and fill in your PostgreSQL credentials
 DB_HOST=localhost
+
 DB_PORT=5432
+
 DB_USER=postgres
+
 DB_PASSWORD=yourpassword
+
 DB_NAME=yourtable
 
 ## 3. Run the application
