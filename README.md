@@ -53,7 +53,7 @@ cd golang-crud-layered
 ```bash
 cp .env.example .env
 ```
-# Then edit .env and fill in your PostgreSQL credentials
+# 🖥️ Then edit .env and fill in your PostgreSQL credentials
 DB_HOST=localhost
 
 DB_PORT=5432
